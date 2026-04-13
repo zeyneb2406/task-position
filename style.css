@@ -84,7 +84,7 @@ header .conteiner{
 .text-block h2{
     font-size: 64px;
     color: #FFFFFF;
-    width: 100%;
+    max-width: 100%;
 }
 .texts{
     max-width: 656px;
